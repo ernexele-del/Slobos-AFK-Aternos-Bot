@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Eyda.aternos.me:33929",
+    "ip": "Eyda.aternos.me",
     "port": 33929,
     "version": "1.21.11",
     "try-creative": false
