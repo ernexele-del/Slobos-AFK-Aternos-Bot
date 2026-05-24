@@ -8,7 +8,7 @@
   "server": {
     "ip": "Eyda.aternos.me",
     "port": 33929,
-    "version": "26.1.2",
+    "version": false 
     "try-creative": false
   },
   "position": {
